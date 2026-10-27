@@ -1,0 +1,6 @@
+{
+  "name": "AgriTech - Empowering Farmers Through Digital Technology",
+  "description": "Smart, multilingual farming management system providing weather forecasts, soil analysis, crop monitoring, pest alerts, agricultural resource marketplace, expert consultations, and community forums for farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
